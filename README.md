@@ -1,8 +1,8 @@
 # Needle in a Haystack
 
-**Women make up half the world's population. They receive 4% of biomedical research funding.**
+**Women are half the population, but female-specific conditions receive just 1% of healthcare research and innovation investment.**
 
-A 3D visualization that makes the disparity in women's health research impossible to ignore. Thousands of translucent voxel cubes represent all biomedical research. One glowing needle buried inside represents women's health.
+A 3D visualization that makes the disparity in women's health investment impossible to ignore. Thousands of translucent voxel cubes represent the broader landscape of healthcare research and innovation. One glowing needle buried inside represents the share invested in female-specific conditions beyond oncology.
 
 It's not a chart. It's a feeling.
 
@@ -21,9 +21,9 @@ Open `http://localhost:5173`. The camera pulls in, the haystack materializes, an
 
 ## The Problem
 
-Conditions that exclusively affect women — endometriosis, PCOS, preeclampsia, menopause — are chronically underfunded and understudied. The research that does exist is scattered across thousands of journals, buried under papers that don't consider sex as a variable.
+The metric used in this piece is not a paper-count claim. It is an investment claim: women are half the population, but female-specific conditions receive just 1% of healthcare research and innovation investment.
 
-Out of every 10,000 biomedical research papers, roughly 400 focus on women's health. That's the ratio. That's what this looks like in three dimensions.
+More precisely, the sourced figure is that only 1% is invested in female-specific conditions beyond oncology. That's the ratio. That's what this looks like in three dimensions.
 
 ---
 
@@ -47,5 +47,11 @@ npm run build
 The `dist/` folder is a static site. Drop it on any host — Vercel, Netlify, Cloud Run, S3, a USB stick.
 
 ---
+
+Source metric:
+
+- 1% of healthcare research and innovation is invested in female-specific conditions beyond oncology
+- Gates Foundation press release, August 4, 2025
+- The Gates Foundation attributes the figure to a 2021 McKinsey-led analysis
 
 **[CollectiveX Health](https://collectivex.health)** — AI-powered health intelligence for women.
